@@ -1,16 +1,16 @@
-### Hi there 👋
+# About me
+A developer who focuses on backend languages.
 
-<!--
-**moloto0v/moloto0v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My skills
 
-Here are some ideas to get you started:
+### Basic learning
+- C#
+- Objective C
+- Go
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Intermediate
+- Bash
+- JavaScript & TypeScript
+- Git
+- MongoDB
