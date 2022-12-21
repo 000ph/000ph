@@ -1,9 +1,9 @@
 # Sobre mim
 Um desenvolvedor que foca no desenvolvimento Backend.
 
-## My skills
+## Conhecimentos
 
-### Basic learning
+### Básico
 <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/">
     <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=CSharp&logoColor=white">
 </a>
@@ -16,7 +16,7 @@ Um desenvolvedor que foca no desenvolvimento Backend.
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </a>
 
-### Intermediate
+### Intermediário
 <span>
 <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=hyper&logoColor=white">
 </span>
