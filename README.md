@@ -20,7 +20,9 @@ Um desenvolvedor que foca no desenvolvimento Backend.
 <span>
 <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=hyper&logoColor=white">
 </span>
-
+<a href="https://nodejs.org/">
+    <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=Node.JS&logoColor=white">
+</a>
 <span>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </span>
