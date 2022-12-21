@@ -1,5 +1,5 @@
-# About me
-A developer who focuses on backend languages.
+# Sobre mim
+Um desenvolvedor que foca no desenvolvimento Backend.
 
 ## My skills
 
