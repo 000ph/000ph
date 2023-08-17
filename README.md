@@ -1,7 +1,7 @@
-# Sobre mim
+# About me
 Back-end focused developer
 
-## Conhecimentos
+## Knowledge
 
 ### Basics
 <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/">
